@@ -1,0 +1,5 @@
+spring:
+  config:
+    name: mall-ddd-web-app
+  profiles:
+    active: dev
